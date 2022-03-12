@@ -1,0 +1,18 @@
+.categories-container{
+    width: 100%;
+    overflow-y: none;
+    overflow-x: auto;
+}
+.categories-container > .category{
+    width: 80px;
+    padding: 8px 0;
+    background: white;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    color: #5d5a5a;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.categories-container > .category:first-child{
+    margin-left: 0;
+}

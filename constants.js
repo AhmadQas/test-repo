@@ -1,0 +1,1 @@
+var categories = ["movie","game","album","book","face","fashion","shoes","watch","furniture"];
